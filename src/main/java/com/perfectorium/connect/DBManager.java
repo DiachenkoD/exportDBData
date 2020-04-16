@@ -7,6 +7,9 @@ import java.util.logging.Logger;
 
 public class DBManager {
 
+	/**
+	* Test maven approach twice
+	*/
 	public static Connection getConnection() {
 		try {
 			Class.forName("net.sourceforge.jtds.jdbc.Driver");
