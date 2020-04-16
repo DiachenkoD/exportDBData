@@ -8,7 +8,7 @@ import java.util.logging.Logger;
 public class DBManager {
 
 	/**
-	* Test maven approach
+	* Test maven approach twice
 	*/
 	public static Connection getConnection() {
 		try {
